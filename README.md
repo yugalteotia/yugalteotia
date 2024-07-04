@@ -17,6 +17,7 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=yugalteotia&show_icons=true&theme=dark&hide_border=true" width = 400 />
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=yugalteotia&theme=dark&hide_border=true&" width = 425 />
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=yugalteotia&label=Profile%20views&color=green&style=flat" alt="yugalteotia"/></p>
   <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugalteotia&theme=dark&hide_border=true" width = 300/>
   <img src="https://github-profile-trophy.vercel.app/?username=yugalteotia&theme=gruvbox&no-frame=true&margin-w=10&margin-h=10&column=6" width = 800/>
