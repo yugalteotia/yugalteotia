@@ -7,20 +7,20 @@
 <h3 align="center">Let's Connect <img src="https://raw.githubusercontent.com/yugalteotia/yugalteotia/main/img/handshake.gif" height="32px"></h3>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/dheerajtechnolegends/" title="LinkedIn Profile"><img height="22" width="22" src="https://github.com/yugalteotia/yugalteotia/blob/main/img/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://twitter.com/yugalteotia/" title="Twitter Profile"><img height="22" width="22" src="https://github.com/yugalteotia/yugalteotia/blob/main/img/twitter.svg"> Twitter</a></code>
+    <a href="https://www.linkedin.com/in/yugalteotia/" title="LinkedIn Profile"><img height="22" width="22" src="https://github.com/yugalteotia/yugalteotia/blob/main/img/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://x.com/yugalteotia/" title="X Profile"><img height="22" width="22" src="https://github.com/yugalteotia/yugalteotia/blob/main/img/x.svg"> X</a></code>
   <!--<code><a href="https://www.instagram.com/me_dheeraj/" title="Instagram Profile"><img height="22" width="22" src="https://github.com/yugalteotia/yugalteotia/blob/main/img/instagram.svg"> Instagram</a></code>-->
-  <code><a href="https://www.twitch.tv/techn0legends"><img alt="Twitch" title="Twitch" height="22" width="22" src="https://github.com/yugalteotia/yugalteotia/blob/main/img/twitch.svg"> Twitch</a></code>
-  <code><a href="https://www.youtube.com/c/DheerajMadhukar"><img alt="YouTube" title="YouTube" height="22" width="22" src="https://github.com/yugalteotia/yugalteotia/blob/main/img/youtube.svg"> YouTube</a></code>
+<!--   <code><a href="https://www.twitch.tv/techn0legends"><img alt="Twitch" title="Twitch" height="22" width="22" src="https://github.com/yugalteotia/yugalteotia/blob/main/img/twitch.svg"> Twitch</a></code> -->
+<!--   <code><a href="https://www.youtube.com/c/DheerajMadhukar"><img alt="YouTube" title="YouTube" height="22" width="22" src="https://github.com/yugalteotia/yugalteotia/blob/main/img/youtube.svg"> YouTube</a></code> -->
 </h5>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=yugalteotia&show_icons=true&theme=dark" width = 400 />
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=yugalteotia&theme=dark&hide_border=true" width = 400 />
-  <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yugalteotia&theme=gruvbox&no-frame=true&margin-w=10&margin-h=10&column=8">
-</p>
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugalteotia&theme=dark&hide_border=true" />-->
+  <img src = "https://github-readme-stats.vercel.app/api?username=yugalteotia&show_icons=true&theme=dark&hide_border=true" width = 470 />
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=yugalteotia&theme=dark&hide_border=true&" width = 500 />
+  <p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugalteotia&theme=dark&hide_border=true" width = 300/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yugalteotia&theme=gruvbox&no-frame=true&margin-w=10&margin-h=10&column=6" width = 800/>
+  </p>
 </p>
 <!--
 <p>
@@ -40,60 +40,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<a href="https://github.com/yugalteotia/Lilly" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yugalteotia&repo=Lilly&theme=dracula" />
-</a>
-<a href="https://github.com/yugalteotia/subzzZ" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yugalteotia&repo=subzzZ&theme=dracula" />
-</a>
-<a href="https://github.com/yugalteotia/GitApp" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yugalteotia&repo=GitApp&theme=dracula" />
-</a>
-<a href="https://github.com/yugalteotia/4-ZERO-3" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yugalteotia&repo=4-ZERO-3&theme=dracula" />
-</a>
-<a href="https://github.com/yugalteotia/back-me-up" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yugalteotia&repo=BB-Hunt-A-Day&theme=dracula" />
-</a>
-<a href="https://github.com/yugalteotia/BB-Hunt-A-Day" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yugalteotia&repo=BB-Hunt-A-Day&theme=dracula" />
-</a>
-<a href="https://github.com/yugalteotia/fdns" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yugalteotia&repo=fdns&theme=dracula" />
-</a>
--->
-
-<h2>Live Sessions</h2>
-
-<a href="https://www.youtube.com/watch?v=oiZYSYI2WQE">HTTP/2 Request Smuggling Bash Automation</a><br>
-<a href="https://www.youtube.com/watch?v=GwR-_Ia1ML8">Subdomain Enum On Live Target 'rockstargames.com' Bash Automation</a><br>
-<a href="https://www.youtube.com/watch?v=wGX3HwCTpKE">Content Discovery FUFF in detail + Live Bug Bounty Automation</a><br>
-<a href="https://www.youtube.com/watch?v=jL0_uyqIbAg">Live Bug hunting Chaining Bugs (SSRF + Blind RCE + DNS Exfiltration)</a><br>
-<a href="https://www.youtube.com/watch?v=SIoCXOxsvVE&t=2347s">Dive into Android Forensics for Beginner Powered by Google Developers</a><br>
-<a href="https://youtu.be/pjPz-12LYQI">Prototype-Pollution-Lab to chain the vulnerabilities between multiple accounts.</a><br>
-<a href="https://www.youtube.com/watch?v=MeNPvBQbn-k&t=3786s">Android UXSS, Local File Steal, OpenRedirect [null Ahmadabad Meet]</a><br>
-
-<h2>Public CTF/Labs</h2>
-
--  Prototype Pollution Vulnerability Chaining
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yugalteotia&repo=Prototype-Pollution-Lab_me_dheeraj&show_owner=true)](https://github.com/yugalteotia/Prototype-Pollution-Lab_me_dheeraj)
-
--  Insecure Comparison in JavaScript
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yugalteotia&repo=Insecure-Comparison-Lab_me_dheeraj&show_owner=true)](https://github.com/yugalteotia/Insecure-Comparison-Lab_me_dheeraj)
-
-<h2>Upcoming Sessions [ Shodan OSINT ] </h2>
-<img src = "https://github.com/yugalteotia/yugalteotia/blob/main/img/talk%20dheeraj.png" width = 400 />
-
-<h2>Write-ups</h2>
-
-<a href="https://infosecwriteups.com/do-it-asap-9d1847472bc8">Full ATO [Account Takeover] $$$</a><br>
-<a href="https://medium.com/@dheerajkmadhukar/journey-from-low-to-critical-bug-2ab98db2eec1">Android insecure IPC leads to Full Account Takeover via IDOR</a><br>
-<a href="https://infosecwriteups.com/dont-stop-at-one-bug-d3c56806b5">Android - Chaining Vulnerabilities [ Local File Steal, Java Script injection, Open Redirect ]</a><br>
-<a href="https://medium.com/@dheerajkmadhukar/bypass-of-biometrics-password-security-functionality-for-android-8e0174ac7cac">Bypass of biometrics & password security functionality for Android</a><br>
-<a href="https://medium.com/@dheerajkmadhukar/origin-ip-found-d-dos-waf-cloudflare-protection-bypassed-41fc280ccf8f">Origin IP found, D-DOS & WAF Cloudflare protection bypassed</a><br>
 
 - 🔭 I’m currently working on
  
