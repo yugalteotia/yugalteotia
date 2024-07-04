@@ -22,6 +22,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=yugalteotia&theme=gruvbox&no-frame=true&margin-w=10&margin-h=10&column=6" width = 800/>
   </p>
 </p>
+
+<p align="center">
+ <img width="1000" src="img/github-snake.svg" alt="snake"/>
+</p>
 <!--
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=yugalteotia&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
