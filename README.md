@@ -16,6 +16,9 @@
   <a href="https://x.com/yugalTeotia_">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=yugalteotia&style=for-the-badge&color=0e75b6" alt="Profile views" />
 </p>
 
