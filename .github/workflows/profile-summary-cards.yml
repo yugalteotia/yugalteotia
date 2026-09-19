@@ -1,0 +1,69 @@
+name: Update profile summary cards
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          persist-credentials: false
+
+      - name: Generate private-aware profile cards
+        uses: vn7n24fzkq/github-profile-summary-cards@09ba4dde3f9b05828cb99553561db3f4ff07703f
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 5.5
+          THEME: github_dark
+          AUTO_PUSH: false
+
+      - name: Upload generated SVG cards
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: profile-summary-cards
+          path: profile-summary-card-output/github_dark/*.svg
+          if-no-files-found: error
+          retention-days: 1
+
+  publish:
+    needs: generate
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+
+      - name: Download generated SVG cards
+        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093
+        with:
+          name: profile-summary-cards
+          path: profile-summary-card-output/github_dark
+
+      - name: Validate generated files
+        shell: bash
+        run: |
+          test "$(find profile-summary-card-output/github_dark -maxdepth 1 -type f -name '*.svg' | wc -l)" -eq 5
+          test "$(find profile-summary-card-output/github_dark -maxdepth 1 -type f ! -name '*.svg' | wc -l)" -eq 0
+          test "$(find profile-summary-card-output/github_dark -maxdepth 1 -type l | wc -l)" -eq 0
+
+      - name: Commit refreshed cards
+        shell: bash
+        run: |
+          git config user.name "profile-summary-cards[bot]"
+          git config user.email "profile-summary-cards-bot@example.com"
+          git add profile-summary-card-output/github_dark/*.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "Update profile summary cards"
+          git push
