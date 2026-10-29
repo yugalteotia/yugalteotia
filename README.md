@@ -71,11 +71,6 @@ Digital marketplace connecting farmers directly with merchants: farmer registrat
 - **Java, Spring Boot, Web**
 - [Repository](https://github.com/yugalteotia/CropConnect)
 
-## Education
-
-- **PG Diploma in Advanced Computing (PG-DAC)** — Centre for Development of Advanced Computing (C-DAC), Pune *(Mar 2024 - Aug 2024)*
-- **B.Tech, Computer Science & Engineering** — Dr. A.P.J. Abdul Kalam Technical University *(2020 - 2023)*
-
 ## Tech stack
 
 <p>
