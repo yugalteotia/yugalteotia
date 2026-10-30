@@ -71,6 +71,13 @@ Digital marketplace connecting farmers directly with merchants: farmer registrat
 - **Java, Spring Boot, Web**
 - [Repository](https://github.com/yugalteotia/CropConnect)
 
+### 🧩 Env Highlighter — Chrome Extension
+
+Chrome extension that visually distinguishes development, staging, and production environments.
+
+- **JavaScript, Chrome Extension APIs**
+- [Repository](https://github.com/yugalteotia/Env-highlighter-extension)
+
 ## Tech stack
 
 <p>
